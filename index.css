@@ -2,3 +2,7 @@ h2 {
   color: white;
   background-color: darkgray;
 }
+
+img {
+  max-height: 300px;
+}
